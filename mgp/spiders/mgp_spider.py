@@ -1,24 +1,23 @@
-from scrapy.contrib.spiders import CrawlSpider, Rule
-from scrapy.contrib.linkextractors.sgml import SgmlLinkExtractor
+import itertools
+from scrapy.http import Request
 from scrapy.selector import Selector
+from scrapy.spider import Spider
+from urlparse import urlparse, parse_qs, urljoin
 
 from mgp.items import MgpAuthor
 
-from urlparse import urlparse, parse_qs
-
-class MgpSpider(CrawlSpider):
+class MgpSpider(Spider):
     name = 'mgp'
     allowed_domains = ['www.genealogy.ams.org']
     start_urls = ['http://www.genealogy.ams.org/id.php?id=171963']
-    rules = [Rule(SgmlLinkExtractor(allow=['id\.php\?id=\d+']),
-                  callback='parse_author',
-                  follow=True)]
 
-    def parse_author(self, response):
+    def parse(self, response):
         sel = Selector(response)
         author = MgpAuthor()
         author['url'] = response.url
-        author['name'] = sel.xpath("//div[@id='paddingWrapper']/h2[1]/text()").extract()[0].strip()
-        author['advisors'] = sel.xpath("//div[@id='paddingWrapper']/p[2]/a/text()").extract()
         author['mgpid'] = int(parse_qs(urlparse(response.url)[4])['id'][0])
-        return author
+        author['name'] = sel.xpath("//div[@id='paddingWrapper']/h2[1]/text()").extract()[0].strip()
+        advisor_a = sel.xpath("//div[@id='paddingWrapper']/p[2]/a")
+        author['advisors'] = advisor_a.xpath("./text()").extract()
+        advisor_links = advisor_a.xpath('./@href').extract()
+        return itertools.chain([author], (Request(urljoin(response.url,link)) for link in advisor_links))
