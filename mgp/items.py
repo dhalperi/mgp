@@ -5,7 +5,8 @@
 
 from scrapy.item import Item, Field
 
-class MgpItem(Item):
-    # define the fields for your item here like:
-    # name = Field()
-    pass
+class MgpAuthor(Item):
+    url = Field()
+    id = Field()
+    name = Field()
+    advisors = Field()
