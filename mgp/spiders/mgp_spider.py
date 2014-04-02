@@ -10,7 +10,9 @@ class MgpSpider(CrawlSpider):
     name = 'mgp'
     allowed_domains = ['www.genealogy.ams.org']
     start_urls = ['http://www.genealogy.ams.org/id.php?id=171963']
-    rules = [Rule(SgmlLinkExtractor(allow=['id\.php\?id=\d+']), callback='parse_author')]
+    rules = [Rule(SgmlLinkExtractor(allow=['id\.php\?id=\d+']),
+                  callback='parse_author',
+                  follow=True)]
 
     def parse_author(self, response):
         sel = Selector(response)
