@@ -7,6 +7,6 @@ from scrapy.item import Item, Field
 
 class MgpAuthor(Item):
     url = Field()
-    id = Field()
+    mgpid = Field()
     name = Field()
     advisors = Field()

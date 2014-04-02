@@ -10,7 +10,7 @@ class MgpSpider(CrawlSpider):
     name = 'mgp'
     allowed_domains = ['www.genealogy.ams.org']
     start_urls = ['http://www.genealogy.ams.org/id.php?id=171963']
-    rules = [Rule(SgmlLinkExtractor(allow=['/id\.php?id=\d+']), callback='parse_author')]
+    rules = [Rule(SgmlLinkExtractor(allow=['id\.php\?id=\d+']), callback='parse_author')]
 
     def parse_author(self, response):
         print "here"
@@ -19,4 +19,5 @@ class MgpSpider(CrawlSpider):
         author['url'] = response.url
         author['name'] = sel.xpath("//div[@id='paddingWrapper']/h2[1]/text()").extract()[0].strip()
         author['advisors'] = sel.xpath("//div[@id='paddingWrapper']/p[2]/a/text()").extract()
-        author['id'] = parse_qs(urlparse(response.url)[4])['id']
+        author['mgpid'] = int(parse_qs(urlparse(response.url)[4])['id'][0])
+        return author
