@@ -13,7 +13,6 @@ class MgpSpider(CrawlSpider):
     rules = [Rule(SgmlLinkExtractor(allow=['id\.php\?id=\d+']), callback='parse_author')]
 
     def parse_author(self, response):
-        print "here"
         sel = Selector(response)
         author = MgpAuthor()
         author['url'] = response.url
