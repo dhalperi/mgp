@@ -17,6 +17,7 @@ class MgpSpider(Spider):
         author['url'] = response.url
         author['mgpid'] = int(parse_qs(urlparse(response.url)[4])['id'][0])
         author['name'] = sel.xpath("//div[@id='paddingWrapper']/h2[1]/text()").extract()[0].strip()
+        author['year'] = int(sel.xpath("//div[@id='paddingWrapper']/div[2]/span/text()[2]").extract()[0])
         advisor_a = sel.xpath("//div[@id='paddingWrapper']/p[2]/a")
         author['advisors'] = advisor_a.xpath("./text()").extract()
         advisor_links = advisor_a.xpath('./@href').extract()

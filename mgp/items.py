@@ -10,3 +10,4 @@ class MgpAuthor(Item):
     mgpid = Field()
     name = Field()
     advisors = Field()
+    year = Field()
