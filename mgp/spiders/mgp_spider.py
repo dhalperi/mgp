@@ -12,6 +12,9 @@ def int_or_none(value):
     except ValueError:
         return None
 
+def link_to_id(link):
+    return int_or_none(link.replace('id.php?id=',''))
+
 class MgpSpider(Spider):
     name = 'mgp'
     allowed_domains = ['www.genealogy.ams.org']
@@ -25,6 +28,6 @@ class MgpSpider(Spider):
         author['name'] = sel.xpath("//div[@id='paddingWrapper']/h2[1]/text()").extract()[0].strip()
         author['year'] = int_or_none(sel.xpath("//div[@id='paddingWrapper']/div[2]/span/text()[2]").extract()[0])
         advisor_a = sel.xpath("//div[@id='paddingWrapper']/p[2]/a")
-        author['advisors'] = advisor_a.xpath("./text()").extract()
         advisor_links = advisor_a.xpath('./@href').extract()
+        author['advisors'] = map(link_to_id, advisor_links)
         return itertools.chain([author], (Request(urljoin(response.url,link)) for link in advisor_links))
