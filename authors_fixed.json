@@ -1,0 +1,981 @@
+[
+  {
+    "year": 1358,
+    "name": "Gregory  Palamas",
+    "advisors": [],
+    "mgpid": 176844,
+    "url": "http://www.genealogy.ams.org/id.php?id=176844"
+  },
+  {
+    "year": 1363,
+    "name": "Nilos  Kabasilas",
+    "advisors": [
+      176844
+    ],
+    "mgpid": 146365,
+    "url": "http://www.genealogy.ams.org/id.php?id=146365"
+  },
+  {
+    "year": 1378,
+    "name": "Demetrios  Kydones",
+    "advisors": [
+      146365
+    ],
+    "mgpid": 134780,
+    "url": "http://www.genealogy.ams.org/id.php?id=134780"
+  },
+  {
+    "year": 1393,
+    "name": "Manuel  Chrysoloras",
+    "advisors": [
+      134780
+    ],
+    "mgpid": 135185,
+    "url": "http://www.genealogy.ams.org/id.php?id=135185"
+  },
+  {
+    "year": 1408,
+    "name": "Guarino  da Verona",
+    "advisors": [
+      135185
+    ],
+    "mgpid": 134931,
+    "url": "http://www.genealogy.ams.org/id.php?id=134931"
+  },
+  {
+    "year": 1416,
+    "name": "Vittorino  da Feltre",
+    "advisors": [
+      134931
+    ],
+    "mgpid": 134873,
+    "url": "http://www.genealogy.ams.org/id.php?id=134873"
+  },
+  {
+    "year": 1426,
+    "name": "Elissaeus  Judaeus",
+    "advisors": [],
+    "mgpid": 134781,
+    "url": "http://www.genealogy.ams.org/id.php?id=134781"
+  },
+  {
+    "year": 1431,
+    "name": "Georgios Plethon Gemistos",
+    "advisors": [
+      134780,
+      134781
+    ],
+    "mgpid": 131575,
+    "url": "http://www.genealogy.ams.org/id.php?id=131575"
+  },
+  {
+    "year": 1433,
+    "name": "Theodoros  Gazes",
+    "advisors": [
+      134873
+    ],
+    "mgpid": 131584,
+    "url": "http://www.genealogy.ams.org/id.php?id=131584"
+  },
+  {
+    "year": 1436,
+    "name": "Basilios  Bessarion",
+    "advisors": [
+      131575
+    ],
+    "mgpid": 131561,
+    "url": "http://www.genealogy.ams.org/id.php?id=131561"
+  },
+  {
+    "year": 1444,
+    "name": "Johannes  Argyropoulos",
+    "advisors": [
+      131561
+    ],
+    "mgpid": 131444,
+    "url": "http://www.genealogy.ams.org/id.php?id=131444"
+  },
+  {
+    "year": 1452,
+    "name": "Demetrios  Chalcocondyles",
+    "advisors": [
+      131584
+    ],
+    "mgpid": 131576,
+    "url": "http://www.genealogy.ams.org/id.php?id=131576"
+  },
+  {
+    "year": 1462,
+    "name": "Marsilio  Ficino",
+    "advisors": [
+      131444
+    ],
+    "mgpid": 131539,
+    "url": "http://www.genealogy.ams.org/id.php?id=131539"
+  },
+  {
+    "year": 1472,
+    "name": "Cristoforo  Landino",
+    "advisors": [],
+    "mgpid": 131540,
+    "url": "http://www.genealogy.ams.org/id.php?id=131540"
+  },
+  {
+    "year": 1472,
+    "name": "Janus  Lascaris",
+    "advisors": [
+      131561,
+      131576
+    ],
+    "mgpid": 131541,
+    "url": "http://www.genealogy.ams.org/id.php?id=131541"
+  },
+  {
+    "year": 1477,
+    "name": "Angelo  Poliziano",
+    "advisors": [
+      131539,
+      131540
+    ],
+    "mgpid": 131535,
+    "url": "http://www.genealogy.ams.org/id.php?id=131535"
+  },
+  {
+    "year": 1493,
+    "name": "Scipione  Fortiguerra",
+    "advisors": [
+      131535
+    ],
+    "mgpid": 131447,
+    "url": "http://www.genealogy.ams.org/id.php?id=131447"
+  },
+  {
+    "year": 1497,
+    "name": "Jan  Standonck",
+    "advisors": [],
+    "mgpid": 125888,
+    "url": "http://www.genealogy.ams.org/id.php?id=125888"
+  },
+  {
+    "year": 1502,
+    "name": "Jacobus (Jacques Masson) Latomus",
+    "advisors": [
+      125888
+    ],
+    "mgpid": 125681,
+    "url": "http://www.genealogy.ams.org/id.php?id=125681"
+  },
+  {
+    "year": 1502,
+    "name": "Moses  Perez",
+    "advisors": [],
+    "mgpid": 131446,
+    "url": "http://www.genealogy.ams.org/id.php?id=131446"
+  },
+  {
+    "year": 1507,
+    "name": "Girolamo (Hieronymus Aleander) Aleandro",
+    "advisors": [
+      131446,
+      131447
+    ],
+    "mgpid": 127181,
+    "url": "http://www.genealogy.ams.org/id.php?id=127181"
+  },
+  {
+    "year": 1508,
+    "name": "Jacob ben Jehiel  Loans",
+    "advisors": [],
+    "mgpid": 125755,
+    "url": "http://www.genealogy.ams.org/id.php?id=125755"
+  },
+  {
+    "year": 1510,
+    "name": "Georgius  Hermonymus",
+    "advisors": [],
+    "mgpid": 131443,
+    "url": "http://www.genealogy.ams.org/id.php?id=131443"
+  },
+  {
+    "year": 1513,
+    "name": "Rutger  Rescius",
+    "advisors": [
+      127181
+    ],
+    "mgpid": 126571,
+    "url": "http://www.genealogy.ams.org/id.php?id=126571"
+  },
+  {
+    "year": 1513,
+    "name": "Johann (Johannes Kapnion) Reuchlin",
+    "advisors": [
+      131444,
+      125755
+    ],
+    "mgpid": 125760,
+    "url": "http://www.genealogy.ams.org/id.php?id=125760"
+  },
+  {
+    "year": 1514,
+    "name": "Matthaeus  Adrianus",
+    "advisors": [],
+    "mgpid": 125794,
+    "url": "http://www.genealogy.ams.org/id.php?id=125794"
+  },
+  {
+    "year": 1515,
+    "name": "Guillaume  Budé",
+    "advisors": [
+      131443,
+      131541
+    ],
+    "mgpid": 131517,
+    "url": "http://www.genealogy.ams.org/id.php?id=131517"
+  },
+  {
+    "year": 1516,
+    "name": "François  Dubois",
+    "advisors": [],
+    "mgpid": 128987,
+    "url": "http://www.genealogy.ams.org/id.php?id=128987"
+  },
+  {
+    "year": 1519,
+    "name": "Jan (Johannes Campensis) van Campen",
+    "advisors": [
+      125794,
+      125760
+    ],
+    "mgpid": 125682,
+    "url": "http://www.genealogy.ams.org/id.php?id=125682"
+  },
+  {
+    "year": 1521,
+    "name": "Balthasar  Kaeuffelin",
+    "advisors": [],
+    "mgpid": 152647,
+    "url": "http://www.genealogy.ams.org/id.php?id=152647"
+  },
+  {
+    "year": 1521,
+    "name": "Jacques  Toussain",
+    "advisors": [
+      131517
+    ],
+    "mgpid": 131546,
+    "url": "http://www.genealogy.ams.org/id.php?id=131546"
+  },
+  {
+    "year": 1523,
+    "name": "Nicolas (Nicolaes Cleynaerts) Clénard",
+    "advisors": [
+      125681,
+      125682
+    ],
+    "mgpid": 125658,
+    "url": "http://www.genealogy.ams.org/id.php?id=125658"
+  },
+  {
+    "year": 1525,
+    "name": "Jean  Tagault",
+    "advisors": [],
+    "mgpid": 128921,
+    "url": "http://www.genealogy.ams.org/id.php?id=128921"
+  },
+  {
+    "year": 1527,
+    "name": "Johannes (Johann Sturm) Sturmius",
+    "advisors": [
+      125658,
+      119159
+    ],
+    "mgpid": 125665,
+    "url": "http://www.genealogy.ams.org/id.php?id=125665"
+  },
+  {
+    "year": 1528,
+    "name": "Johannes Winter von Andernach",
+    "advisors": [
+      126571,
+      125422
+    ],
+    "mgpid": 119159,
+    "url": "http://www.genealogy.ams.org/id.php?id=119159"
+  },
+  {
+    "year": 1530,
+    "name": "Jacobus (Jacques Dubois) Sylvius",
+    "advisors": [
+      128987,
+      128921
+    ],
+    "mgpid": 125422,
+    "url": "http://www.genealogy.ams.org/id.php?id=125422"
+  },
+  {
+    "year": 1536,
+    "name": "Petrus (Pierre de La Ramée) Ramus",
+    "advisors": [
+      125665,
+      131546
+    ],
+    "mgpid": 125047,
+    "url": "http://www.genealogy.ams.org/id.php?id=125047"
+  },
+  {
+    "year": 1551,
+    "name": "Jakob  Beuerlin",
+    "advisors": [
+      152647
+    ],
+    "mgpid": 152648,
+    "url": "http://www.genealogy.ams.org/id.php?id=152648"
+  },
+  {
+    "year": 1553,
+    "name": "Theodor  Zwinger",
+    "advisors": [
+      125047
+    ],
+    "mgpid": 125148,
+    "url": "http://www.genealogy.ams.org/id.php?id=125148"
+  },
+  {
+    "year": 1553,
+    "name": "Jacob  Andreae",
+    "advisors": [
+      152648
+    ],
+    "mgpid": 143044,
+    "url": "http://www.genealogy.ams.org/id.php?id=143044"
+  },
+  {
+    "year": 1564,
+    "name": "Johann Jacob Grynaeus",
+    "advisors": [
+      143044
+    ],
+    "mgpid": 143045,
+    "url": "http://www.genealogy.ams.org/id.php?id=143045"
+  },
+  {
+    "year": 1575,
+    "name": "Nicolò Fontana Tartaglia",
+    "advisors": [],
+    "mgpid": 136514,
+    "url": "http://www.genealogy.ams.org/id.php?id=136514"
+  },
+  {
+    "year": 1580,
+    "name": "Ostilio  Ricci",
+    "advisors": [
+      136514
+    ],
+    "mgpid": 136245,
+    "url": "http://www.genealogy.ams.org/id.php?id=136245"
+  },
+  {
+    "year": 1584,
+    "name": "Petrus  Ryff",
+    "advisors": [
+      125148
+    ],
+    "mgpid": 130248,
+    "url": "http://www.genealogy.ams.org/id.php?id=130248"
+  },
+  {
+    "year": 1585,
+    "name": "Galileo  Galilei",
+    "advisors": [
+      136245
+    ],
+    "mgpid": 134975,
+    "url": "http://www.genealogy.ams.org/id.php?id=134975"
+  },
+  {
+    "year": 1610,
+    "name": "Sebastian  Beck",
+    "advisors": [
+      143045
+    ],
+    "mgpid": 143082,
+    "url": "http://www.genealogy.ams.org/id.php?id=143082"
+  },
+  {
+    "year": 1610,
+    "name": "Benedetto  Castelli",
+    "advisors": [
+      134975
+    ],
+    "mgpid": 136575,
+    "url": "http://www.genealogy.ams.org/id.php?id=136575"
+  },
+  {
+    "year": 1611,
+    "name": "Marin  Mersenne",
+    "advisors": [],
+    "mgpid": 125434,
+    "url": "http://www.genealogy.ams.org/id.php?id=125434"
+  },
+  {
+    "year": 1613,
+    "name": "Emmanuel  Stupanus",
+    "advisors": [
+      130248
+    ],
+    "mgpid": 125125,
+    "url": "http://www.genealogy.ams.org/id.php?id=125125"
+  },
+  {
+    "year": 1626,
+    "name": "Evangelista  Torricelli",
+    "advisors": [
+      136575
+    ],
+    "mgpid": 154455,
+    "url": "http://www.genealogy.ams.org/id.php?id=154455"
+  },
+  {
+    "year": 1630,
+    "name": "Theodor  Zwinger, Jr.",
+    "advisors": [
+      143082
+    ],
+    "mgpid": 143083,
+    "url": "http://www.genealogy.ams.org/id.php?id=143083"
+  },
+  {
+    "year": 1631,
+    "name": "Gilles Personne de Roberval",
+    "advisors": [
+      125434
+    ],
+    "mgpid": 133303,
+    "url": "http://www.genealogy.ams.org/id.php?id=133303"
+  },
+  {
+    "year": 1642,
+    "name": "Vincenzo  Viviani",
+    "advisors": [
+      134975,
+      154455
+    ],
+    "mgpid": 133302,
+    "url": "http://www.genealogy.ams.org/id.php?id=133302"
+  },
+  {
+    "year": 1649,
+    "name": "Peter  Werenfels",
+    "advisors": [
+      143083
+    ],
+    "mgpid": 143084,
+    "url": "http://www.genealogy.ams.org/id.php?id=143084"
+  },
+  {
+    "year": 1649,
+    "name": "Johann  Caspar Bauhin",
+    "advisors": [
+      125125
+    ],
+    "mgpid": 129708,
+    "url": "http://www.genealogy.ams.org/id.php?id=129708"
+  },
+  {
+    "year": 1652,
+    "name": "Isaac  Barrow",
+    "advisors": [
+      133302,
+      133303
+    ],
+    "mgpid": 67643,
+    "url": "http://www.genealogy.ams.org/id.php?id=67643"
+  },
+  {
+    "year": 1663,
+    "name": "Benjamin  Pulleyn",
+    "advisors": [],
+    "mgpid": 121201,
+    "url": "http://www.genealogy.ams.org/id.php?id=121201"
+  },
+  {
+    "year": 1668,
+    "name": "Isaac  Newton",
+    "advisors": [
+      67643,
+      121201
+    ],
+    "mgpid": 74313,
+    "url": "http://www.genealogy.ams.org/id.php?id=74313"
+  },
+  {
+    "year": 1675,
+    "name": "Nikolaus  Eglinger",
+    "advisors": [
+      125125,
+      129708
+    ],
+    "mgpid": 129628,
+    "url": "http://www.genealogy.ams.org/id.php?id=129628"
+  },
+  {
+    "year": 1676,
+    "name": "Jacob  Bernoulli",
+    "advisors": [
+      143084
+    ],
+    "mgpid": 54440,
+    "url": "http://www.genealogy.ams.org/id.php?id=54440"
+  },
+  {
+    "year": 1701,
+    "name": "Johann  Bernoulli",
+    "advisors": [
+      54440,
+      129628
+    ],
+    "mgpid": 53410,
+    "url": "http://www.genealogy.ams.org/id.php?id=53410"
+  },
+  {
+    "year": 1706,
+    "name": "Roger  Cotes",
+    "advisors": [
+      74313
+    ],
+    "mgpid": 103067,
+    "url": "http://www.genealogy.ams.org/id.php?id=103067"
+  },
+  {
+    "year": 1715,
+    "name": "Robert  Smith",
+    "advisors": [
+      103067
+    ],
+    "mgpid": 103068,
+    "url": "http://www.genealogy.ams.org/id.php?id=103068"
+  },
+  {
+    "year": 1723,
+    "name": "Walter  Taylor",
+    "advisors": [
+      103068
+    ],
+    "mgpid": 133368,
+    "url": "http://www.genealogy.ams.org/id.php?id=133368"
+  },
+  {
+    "year": 1726,
+    "name": "Leonhard  Euler",
+    "advisors": [
+      53410
+    ],
+    "mgpid": 38586,
+    "url": "http://www.genealogy.ams.org/id.php?id=38586"
+  },
+  {
+    "year": 1742,
+    "name": "Stephen  Whisson",
+    "advisors": [
+      133368
+    ],
+    "mgpid": 133367,
+    "url": "http://www.genealogy.ams.org/id.php?id=133367"
+  },
+  {
+    "year": 1756,
+    "name": "Thomas  Postlethwaite",
+    "advisors": [
+      133367
+    ],
+    "mgpid": 133301,
+    "url": "http://www.genealogy.ams.org/id.php?id=133301"
+  },
+  {
+    "year": 1760,
+    "name": "Edward   Waring",
+    "advisors": [],
+    "mgpid": 129421,
+    "url": "http://www.genealogy.ams.org/id.php?id=129421"
+  },
+  {
+    "year": 1763,
+    "name": "Joseph Louis Lagrange",
+    "advisors": [
+      38586
+    ],
+    "mgpid": 17864,
+    "url": "http://www.genealogy.ams.org/id.php?id=17864"
+  },
+  {
+    "year": 1774,
+    "name": "John  Cranke",
+    "advisors": [],
+    "mgpid": 103066,
+    "url": "http://www.genealogy.ams.org/id.php?id=103066"
+  },
+  {
+    "year": 1782,
+    "name": "Thomas  Jones",
+    "advisors": [
+      133301,
+      103066
+    ],
+    "mgpid": 102036,
+    "url": "http://www.genealogy.ams.org/id.php?id=102036"
+  },
+  {
+    "year": 1790,
+    "name": "Jean Le Rond d'Alembert",
+    "advisors": [],
+    "mgpid": 108266,
+    "url": "http://www.genealogy.ams.org/id.php?id=108266"
+  },
+  {
+    "year": 1795,
+    "name": "Pierre-Simon  Laplace",
+    "advisors": [
+      108266
+    ],
+    "mgpid": 108295,
+    "url": "http://www.genealogy.ams.org/id.php?id=108295"
+  },
+  {
+    "year": 1800,
+    "name": "Henry   Bracken",
+    "advisors": [],
+    "mgpid": 129422,
+    "url": "http://www.genealogy.ams.org/id.php?id=129422"
+  },
+  {
+    "year": 1800,
+    "name": "Simeon Denis Poisson",
+    "advisors": [
+      17864,
+      108295
+    ],
+    "mgpid": 17865,
+    "url": "http://www.genealogy.ams.org/id.php?id=17865"
+  },
+  {
+    "year": 1805,
+    "name": "John  Dawson",
+    "advisors": [
+      129421,
+      129422
+    ],
+    "mgpid": 102037,
+    "url": "http://www.genealogy.ams.org/id.php?id=102037"
+  },
+  {
+    "year": 1811,
+    "name": "Adam  Sedgwick",
+    "advisors": [
+      102036,
+      102037
+    ],
+    "mgpid": 102043,
+    "url": "http://www.genealogy.ams.org/id.php?id=102043"
+  },
+  {
+    "year": 1814,
+    "name": "Michel  Chasles",
+    "advisors": [
+      17865
+    ],
+    "mgpid": 26995,
+    "url": "http://www.genealogy.ams.org/id.php?id=26995"
+  },
+  {
+    "year": 1830,
+    "name": "William  Hopkins",
+    "advisors": [
+      102043
+    ],
+    "mgpid": 42016,
+    "url": "http://www.genealogy.ams.org/id.php?id=42016"
+  },
+  {
+    "year": 1841,
+    "name": "George Gabriel Stokes",
+    "advisors": [
+      42016
+    ],
+    "mgpid": 102483,
+    "url": "http://www.genealogy.ams.org/id.php?id=102483"
+  },
+  {
+    "year": 1848,
+    "name": "Isaac  Todhunter",
+    "advisors": [
+      42016
+    ],
+    "mgpid": 129420,
+    "url": "http://www.genealogy.ams.org/id.php?id=129420"
+  },
+  {
+    "year": 1850,
+    "name": "H. A. (Hubert Anson) Newton",
+    "advisors": [
+      26995
+    ],
+    "mgpid": 7865,
+    "url": "http://www.genealogy.ams.org/id.php?id=7865"
+  },
+  {
+    "year": 1857,
+    "name": "Edward John Routh",
+    "advisors": [
+      42016,
+      129420
+    ],
+    "mgpid": 101929,
+    "url": "http://www.genealogy.ams.org/id.php?id=101929"
+  },
+  {
+    "year": 1868,
+    "name": "John William Strutt (Lord Rayleigh)",
+    "advisors": [
+      101929,
+      102483
+    ],
+    "mgpid": 101979,
+    "url": "http://www.genealogy.ams.org/id.php?id=101979"
+  },
+  {
+    "year": 1883,
+    "name": "Joseph John Thomson",
+    "advisors": [
+      101979
+    ],
+    "mgpid": 50701,
+    "url": "http://www.genealogy.ams.org/id.php?id=50701"
+  },
+  {
+    "year": 1885,
+    "name": "E. H. (Eliakim Hastings) Moore",
+    "advisors": [
+      7865
+    ],
+    "mgpid": 806,
+    "url": "http://www.genealogy.ams.org/id.php?id=806"
+  },
+  {
+    "year": 1898,
+    "name": "Ernest  Rutherford",
+    "advisors": [
+      50701
+    ],
+    "mgpid": 50699,
+    "url": "http://www.genealogy.ams.org/id.php?id=50699"
+  },
+  {
+    "year": 1903,
+    "name": "Oswald  Veblen",
+    "advisors": [
+      806
+    ],
+    "mgpid": 805,
+    "url": "http://www.genealogy.ams.org/id.php?id=805"
+  },
+  {
+    "year": 1913,
+    "name": "Edward Victor Appleton",
+    "advisors": [
+      50701,
+      50699
+    ],
+    "mgpid": 112651,
+    "url": "http://www.genealogy.ams.org/id.php?id=112651"
+  },
+  {
+    "year": 1921,
+    "name": "John R. Bangs",
+    "advisors": [],
+    "mgpid": 80136,
+    "url": "http://www.genealogy.ams.org/id.php?id=80136"
+  },
+  {
+    "year": 1921,
+    "name": "Philip  Franklin",
+    "advisors": [
+      805
+    ],
+    "mgpid": 1488,
+    "url": "http://www.genealogy.ams.org/id.php?id=1488"
+  },
+  {
+    "year": 1924,
+    "name": "John Ashworth Ratcliffe",
+    "advisors": [
+      112651
+    ],
+    "mgpid": 147661,
+    "url": "http://www.genealogy.ams.org/id.php?id=147661"
+  },
+  {
+    "year": 1937,
+    "name": "Maurice Vincent Wilkes",
+    "advisors": [
+      147661
+    ],
+    "mgpid": 143090,
+    "url": "http://www.genealogy.ams.org/id.php?id=143090"
+  },
+  {
+    "year": 1941,
+    "name": "Andrew  Schultz, Jr.",
+    "advisors": [
+      80136
+    ],
+    "mgpid": 79969,
+    "url": "http://www.genealogy.ams.org/id.php?id=79969"
+  },
+  {
+    "year": 1950,
+    "name": "Alan Jay Perlis",
+    "advisors": [
+      1488
+    ],
+    "mgpid": 13112,
+    "url": "http://www.genealogy.ams.org/id.php?id=13112"
+  },
+  {
+    "year": 1951,
+    "name": "David John Wheeler",
+    "advisors": [
+      143090
+    ],
+    "mgpid": 16946,
+    "url": "http://www.genealogy.ams.org/id.php?id=16946"
+  },
+  {
+    "year": 1958,
+    "name": "Richard Walter Conway",
+    "advisors": [
+      79969
+    ],
+    "mgpid": 79968,
+    "url": "http://www.genealogy.ams.org/id.php?id=79968"
+  },
+  {
+    "year": 1961,
+    "name": "William Laughlin Maxwell",
+    "advisors": [
+      79968
+    ],
+    "mgpid": 79965,
+    "url": "http://www.genealogy.ams.org/id.php?id=79965"
+  },
+  {
+    "year": 1962,
+    "name": "Roger Michael Needham",
+    "advisors": [
+      16946
+    ],
+    "mgpid": 42570,
+    "url": "http://www.genealogy.ams.org/id.php?id=42570"
+  },
+  {
+    "year": 1964,
+    "name": "Jerome Arthur Feldman",
+    "advisors": [
+      13112
+    ],
+    "mgpid": 13120,
+    "url": "http://www.genealogy.ams.org/id.php?id=13120"
+  },
+  {
+    "year": 1966,
+    "name": "Linus Edward Schrage",
+    "advisors": [
+      79965
+    ],
+    "mgpid": 79967,
+    "url": "http://www.genealogy.ams.org/id.php?id=79967"
+  },
+  {
+    "year": 1969,
+    "name": "James Jay Horning",
+    "advisors": [
+      13120
+    ],
+    "mgpid": 13815,
+    "url": "http://www.genealogy.ams.org/id.php?id=13815"
+  },
+  {
+    "year": 1972,
+    "name": "Kenneth Clem Sevcik",
+    "advisors": [
+      79967
+    ],
+    "mgpid": 66903,
+    "url": "http://www.genealogy.ams.org/id.php?id=66903"
+  },
+  {
+    "year": 1975,
+    "name": "John Vogel Guttag",
+    "advisors": [
+      13815
+    ],
+    "mgpid": 65968,
+    "url": "http://www.genealogy.ams.org/id.php?id=65968"
+  },
+  {
+    "year": 1977,
+    "name": "Edward Delano Lazowska",
+    "advisors": [
+      66903
+    ],
+    "mgpid": 69232,
+    "url": "http://www.genealogy.ams.org/id.php?id=69232"
+  },
+  {
+    "year": 1981,
+    "name": "Henry (Hank) M. Levy",
+    "advisors": [
+      69232
+    ],
+    "mgpid": 69000,
+    "url": "http://www.genealogy.ams.org/id.php?id=69000"
+  },
+  {
+    "year": 1989,
+    "name": "David Lawrence Tennenhouse",
+    "advisors": [
+      42570
+    ],
+    "mgpid": 55183,
+    "url": "http://www.genealogy.ams.org/id.php?id=55183"
+  },
+  {
+    "year": 1991,
+    "name": "Thomas Edward Anderson",
+    "advisors": [
+      69232,
+      69000
+    ],
+    "mgpid": 70101,
+    "url": "http://www.genealogy.ams.org/id.php?id=70101"
+  },
+  {
+    "year": 1998,
+    "name": "David James Wetherall",
+    "advisors": [
+      65968,
+      55183
+    ],
+    "mgpid": 55182,
+    "url": "http://www.genealogy.ams.org/id.php?id=55182"
+  },
+  {
+    "year": 2012,
+    "name": "Daniel Dan Halperin",
+    "advisors": [
+      55182,
+      70101
+    ],
+    "mgpid": 171963,
+    "url": "http://www.genealogy.ams.org/id.php?id=171963"
+  }
+]
